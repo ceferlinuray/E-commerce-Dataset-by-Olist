@@ -22,19 +22,6 @@ The project uses the Brazilian E-Commerce Public Dataset by Olist, a publicly av
 
 The dataset covers orders placed between 2016 and 2018 and contains approximately 100,000 orders. It includes information about customers, sellers, products, payments, reviews, order items, and delivery timestamps.
 
-### Main datasets used
-
-| Dataset | Purpose |
-| `customers` | Customer identifiers and geographic information |
-| `orders` | Order status, purchase timestamps, approval timestamps, and delivery timestamps |
-| `order_items` | Products within orders, seller identifiers, item prices, freight values, and shipping information |
-| `order_payments` | Payment methods, installment counts, and payment values |
-| `order_reviews` | Customer review scores and review-related information |
-| `products` | Product identifiers, categories, and product attributes |
-| `sellers` | Seller identifiers and geographic information |
-| `product_category_translation` | Translation of product category names |
-| `geolocation` | Geographic coordinates associated with Brazilian postal-code prefixes |
-
 
 ## 4. Report Pages and Analytical Questions
 
